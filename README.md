@@ -29,7 +29,7 @@
 - 🎯 Experienced in **fine-tuning models from scratch** (LLMs, CV, NLP) for domain-specific tasks  
 - ⚙️ Skilled in **LangChain, LangGraph, Qdrant, Redis, MongoDB, FastAPI, Django, React, Celery, Kubernetes (EKS)**  
 - 🌱 Exploring **LangSmith, AI observability, and agentic workflows** for scalable architectures  
-- 📸 Outside code: **photographer, cyclist & traveler**, blending creativity with tech  
+- 📸 Outside code: **Biker, Food lover, Gymnast & Traveler**, blending creativity with tech  
 
 ---
 
