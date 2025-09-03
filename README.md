@@ -16,9 +16,9 @@
 <img align="right" alt="Coding" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
 
 ### 🚀 About Me  
-- 🤖 **AI Engineer & Full Stack Developer** with expertise in **LLMs, RAG, caching & orchestration**  
-- 🏢 **Lead Engineer @ Echologyx Ltd**, building **production-grade AI SaaS platforms**  
-- ⚡ Delivered **chatbot** → **10× faster** & more accurate with caching + DB optimization  
+- 🤖 Hands-on expertise in **LLM fine-tuning, multi-tenant RAG architectures, Computer Vision, and end-to-end SaaS development** (FastAPI, Django, React, Kubernetes)
+- 🏢 **Lead AI/ML Engineer @ Echologyx Ltd**, building **production-grade AI SaaS platforms**  
+- ⚡ Delivered **chatbot** → **10× faster** & more accurate with **context engineering, caching + DB optimization**
 - 🔄 Built **multi-LLM orchestration** (GPT, Gemini, Claude) with **auto-fallback switching**  
 - 🧠 Designed **multi-tenant hybrid RAG pipelines** (dense + sparse + ColBERT) serving **millions of queries**  
 - 📊 Automated **EDA workflows** with **EDA Storyteller**, enabling **data-driven decisions at scale**  
@@ -33,13 +33,14 @@
 
 ---
 
-## 🏆 Highlights  
+## 🌟 Highlights  
 
-- ⚙️ **Optimized AI Assistant** → DB fetch **10× faster** with smart caching  
-- 🤝 **Multi-LLM Orchestration** → GPT, Gemini, Claude with reliability failover  
-- 📊 **FAQ & Knowledge Engines** → Scrapers + Q&A pipelines (BeautifulSoup + Playwright)  
-- 📦 **Full Stack SaaS Apps** → Django + React, FastAPI, Flask, Laravel  
-- 🚀 **AI SaaS Products** → Focused on scalability, speed & user experience  
+- ⚙️ **MLOps Expertise** – Designed and deployed production-ready ML pipelines with **Docker, Kubernetes (EKS), ArgoCD, and Terraform**, ensuring scalability and reliability  
+- 🖥️ **GPU-Accelerated Training** – Leveraged **NVIDIA GPUs & Apple Silicon M-series** for fine-tuning LLMs and CV models with optimized training throughput  
+- 📈 **Scalable Fine-Tuning** – Fine-tuned models from scratch and adapted pre-trained LLMs to **domain-specific use cases** across e-commerce, banking, and computer vision  
+- 🗄️ **Efficient Data Engineering** – Architected pipelines for storing and retrieving **large-scale product, customer, and event data** using **MongoDB, Redis, and vector DBs (Qdrant/FAISS)**  
+- 🤖 **Automation & Context Engineering** – Built automated **EDA workflows** and **dynamic context extraction pipelines** to power recommendation engines and RAG chatbots  
+- 🧠 **Human Behavior & Intention Modeling** – Researched and implemented **intent classification, behavioral insights, and personalization systems** to improve customer experience  
 
 ---
 
