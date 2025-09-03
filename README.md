@@ -35,12 +35,14 @@
 
 ## 🌟 Highlights  
 
-- ⚙️ **MLOps Expertise** – Designed and deployed production-ready ML pipelines with **Docker, Kubernetes (EKS), ArgoCD, and Terraform**, ensuring scalability and reliability  
-- 🖥️ **GPU-Accelerated Training** – Leveraged **NVIDIA GPUs & Apple Silicon M-series** for fine-tuning LLMs and CV models with optimized training throughput  
-- 📈 **Scalable Fine-Tuning** – Fine-tuned models from scratch and adapted pre-trained LLMs to **domain-specific use cases** across e-commerce, banking, and computer vision  
-- 🗄️ **Efficient Data Engineering** – Architected pipelines for storing and retrieving **large-scale product, customer, and event data** using **MongoDB, Redis, and vector DBs (Qdrant/FAISS)**  
-- 🤖 **Automation & Context Engineering** – Built automated **EDA workflows** and **dynamic context extraction pipelines** to power recommendation engines and RAG chatbots  
-- 🧠 **Human Behavior & Intention Modeling** – Researched and implemented **intent classification, behavioral insights, and personalization systems** to improve customer experience  
+- ⚙️ **MLOps Expertise** – Designed and deployed ML pipelines with **Docker, Kubernetes (EKS), ArgoCD, and Terraform**, integrating **MLflow for experiment tracking** and **AWS SageMaker for model training & deployment at scale**  
+- 🖥️ **GPU-Accelerated Training** – Leveraged **NVIDIA GPUs & Apple Silicon M-series** for efficient fine-tuning, using **MLflow** to log metrics, parameters, and results across experiments  
+- 📈 **Scalable Fine-Tuning** – Fine-tuned models from scratch and adapted pre-trained LLMs to **domain-specific tasks** (e-commerce, banking, computer vision), orchestrated via **SageMaker pipelines** 
+- 🗄️ **Efficient Data Engineering** – Architected pipelines for **large-scale product, customer, and event data** using **MongoDB, Redis, and vector DBs (Qdrant/FAISS)**, enabling high-performance retrieval and training  
+- 🤖 **Automation & Context Engineering** – Automated **EDA workflows** and **context-aware pipelines** with MLflow-backed tracking, powering recommendation engines and RAG chatbots  
+- 🧠 **Human Behavior & Intention Modeling** – Implemented **intent classification and behavior-driven insights** to improve personalization and user interaction in production AI systems  
+
+
 
 ---
 
